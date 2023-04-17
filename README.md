@@ -1,6 +1,6 @@
 # Briefing
 
-It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
+It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for me:
 
 ![image](https://user-images.githubusercontent.com/106876207/232359133-0cb4ddb7-109b-415a-b9ce-2e158cde9150.png)
 
